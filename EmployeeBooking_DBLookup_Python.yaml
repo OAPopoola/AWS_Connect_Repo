@@ -11,4 +11,4 @@ Resources:
       Description: ''
       MemorySize: 128
       Timeout: 3
-      Role: 'arn:aws:iam::485593996530:role/Lambda_EmployeeBooking'
+      Role: 'arn:aws:iam::xxxxxxxxxxxx:role/Lambda_EmployeeBooking'
